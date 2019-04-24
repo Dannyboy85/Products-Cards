@@ -1,5 +1,6 @@
 #Product cards
-#SHOTZ 
+
+#Shotz
 
 ## Description
 A website that displays four type of cards with details 
@@ -8,7 +9,7 @@ like description, specifications, pricing.
 ## Screenshots
 * Image of the product cards page
 * img src: /images/pic.png
-Format: ![Alt Text](url)
+* Format: ![Product Cards](https://raw.githubusercontent.com/Dannyboy85/Products-Cards/master/images/pic.jpg)
 
 ## How to Run
 * In your terminal type `hs`.
@@ -16,5 +17,5 @@ Format: ![Alt Text](url)
 * hit enter
 
 
-## Author
+## Author 
 Daniel Fornica
